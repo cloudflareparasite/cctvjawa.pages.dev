@@ -1,85 +1,85 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.13' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://cctvjawa.pages.dev/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de' sitemap-generator-version='4.1.13' -->
 <!-- generated-on='August 29, 2023 3:01 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/ezviz</loc>
+		<loc>https://cctvjawa.pages.dev/ezviz</loc>
 		<lastmod>2023-08-22T08:02:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/samsung</loc>
+		<loc>https://cctvjawa.pages.dev/samsung</loc>
 		<lastmod>2023-08-22T08:01:23+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/infinity</loc>
+		<loc>https://cctvjawa.pages.dev/infinity</loc>
 		<lastmod>2023-08-22T08:08:18+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/uniview</loc>
+		<loc>https://cctvjawa.pages.dev/uniview</loc>
 		<lastmod>2023-08-22T08:10:42+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/zkteco</loc>
+		<loc>https://cctvjawa.pages.dev/zkteco</loc>
 		<lastmod>2023-08-22T08:10:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/dahua</loc>
+		<loc>https://cctvjawa.pages.dev/dahua</loc>
 		<lastmod>2023-08-22T08:06:34+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/glenz</loc>
+		<loc>https://cctvjawa.pages.dev/glenz</loc>
 		<lastmod>2023-08-22T08:06:40+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/hikvision</loc>
+		<loc>https://cctvjawa.pages.dev/hikvision</loc>
 		<lastmod>2023-08-22T08:09:14+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/hilook</loc>
+		<loc>https://cctvjawa.pages.dev/hilook</loc>
 		<lastmod>2023-08-22T08:05:14+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/omniview</loc>
+		<loc>https://cctvjawa.pages.dev/omniview</loc>
 		<lastmod>2023-08-22T08:04:50+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/panasonic</loc>
+		<loc>https://cctvjawa.pages.dev/panasonic</loc>
 		<lastmod>2023-08-22T08:04:41+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/honeywell</loc>
+		<loc>https://cctvjawa.pages.dev/honeywell</loc>
 		<lastmod>2023-08-22T08:04:31+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/merk</loc>
+		<loc>https://cctvjawa.pages.dev/merk</loc>
 		<lastmod>2023-08-22T08:03:12+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>https://oxygen-q2vqqrjf8by8.oxygen-demo.qsandbox.org/spc</loc>
+		<loc>https://cctvjawa.pages.dev/spc</loc>
 		<lastmod>2023-08-22T08:04:10+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
